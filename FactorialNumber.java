@@ -9,6 +9,6 @@ int i;
 		fact=fact*i;
 
 		}
-		System.out.println("Factorial of the number is " +num+ " is " +fact);
+		System.out.println("Factorial of the number is  " +num+ " is " +fact);
 		}
     }
